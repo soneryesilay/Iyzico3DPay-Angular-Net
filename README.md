@@ -1,4 +1,4 @@
-# Iyzico3D Payment
+# Iyzico3D Ödeme Entegrasyonu
 
 ## Proje İçeriği
 - Asp.net Core 8
