@@ -9,7 +9,10 @@
 - TypeScript
 - Angular
 
-  
+## Proje Hakkında
+
+Bu proje, Angular eğitimi sürecinde öğrenilen konseptlerin uygulamalı olarak pekiştirilmesini sağlamak amacıyla oluşturulmuştur.
+
 ## Utilizing the Repository
 
 Clone the project: 
