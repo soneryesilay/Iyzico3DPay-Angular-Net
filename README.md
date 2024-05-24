@@ -3,10 +3,10 @@
 ## Proje İçeriği
 - Asp.net Core 8
 - IyzicoAPI
-- Html
-- Css
-- Js
-- Ts
+- HTML
+- CSS
+- JS
+- TypeScript
 - Angular
 
   
