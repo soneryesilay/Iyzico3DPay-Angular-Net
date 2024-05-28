@@ -19,7 +19,7 @@ Clone the project:
 
 
 ```bash
-git clone https://github.com/soneryesilay/Iyzico3DPay-Angular-Netgit
+git clone https://github.com/soneryesilay/Iyzico3DPay-Angular-Net.git
 ```
 
 Navigate to the project directory and compile/run the project:
